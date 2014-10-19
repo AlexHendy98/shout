@@ -20,7 +20,7 @@ sudo npm install -g shout
 ```
 ## Or Try.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/alexhendy98/shout)
 ## Usage
 
 When the install is complete, go ahead and run this in your terminal:
