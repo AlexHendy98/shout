@@ -16,8 +16,11 @@ __What features does it have?__
 
 ```
 sudo npm install -g shout
-```
 
+```
+## Or Try.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample)
 ## Usage
 
 When the install is complete, go ahead and run this in your terminal:
